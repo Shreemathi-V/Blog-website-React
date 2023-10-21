@@ -1,0 +1,9 @@
+
+/api/node_modules/
+/api/uploads/
+
+/client/node_modules/
+/client/public/upload/
+/client/src/img/
+
+/client/.gitignore
